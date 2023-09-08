@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-ui-v2/static/css/main.1685b1a5.css",
-    "main.js": "/web-ui-v2/static/js/main.9fb3f449.js",
+    "main.js": "/web-ui-v2/static/js/main.51e12d54.js",
     "static/media/phonebubbles.png": "/web-ui-v2/static/media/phonebubbles.2fabbc71c8e64138da60.png",
     "static/media/gradientBG.png": "/web-ui-v2/static/media/gradientBG.f4b17ecf3b622fb378e1.png",
     "static/media/daysheets-mac-phone-mock.png": "/web-ui-v2/static/media/daysheets-mac-phone-mock.a5b68821ba0b62e3b021.png",
@@ -45,10 +45,10 @@
     "static/media/checkmark.svg": "/web-ui-v2/static/media/checkmark.7cba1970119cf3c3465cf1a456d33c0f.svg",
     "static/media/checkmark_w.svg": "/web-ui-v2/static/media/checkmark_w.88b0b824f66c2c0d84736c9c36663d32.svg",
     "main.1685b1a5.css.map": "/web-ui-v2/static/css/main.1685b1a5.css.map",
-    "main.9fb3f449.js.map": "/web-ui-v2/static/js/main.9fb3f449.js.map"
+    "main.51e12d54.js.map": "/web-ui-v2/static/js/main.51e12d54.js.map"
   },
   "entrypoints": [
     "static/css/main.1685b1a5.css",
-    "static/js/main.9fb3f449.js"
+    "static/js/main.51e12d54.js"
   ]
 }
