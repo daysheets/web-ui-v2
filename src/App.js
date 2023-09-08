@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/web-ui-v2" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/help" element={<Help />} />
         <Route path="/pricing" element={<Prices />} />
       </Routes>
