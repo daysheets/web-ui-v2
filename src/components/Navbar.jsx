@@ -95,7 +95,7 @@ const Navbar = () => {
         >
           {/* Navbar contents */}
           <div>
-            <Link to="/daysheetsv2">
+            <Link to="/web-ui-v2">
               <img src={logo} alt="Daysheets logo" className="h-[40px]" />
             </Link>
           </div>
