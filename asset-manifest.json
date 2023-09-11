@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.ce01e68d.css",
-    "main.js": "/static/js/main.2036c881.js",
-    "static/media/phonebubbles.png": "/static/media/phonebubbles.2fabbc71c8e64138da60.png",
+    "main.js": "/static/js/main.b9e327ab.js",
     "static/media/gradientBG.png": "/static/media/gradientBG.f4b17ecf3b622fb378e1.png",
-    "static/media/daysheets-mac-phone-mock.png": "/static/media/daysheets-mac-phone-mock.a5b68821ba0b62e3b021.png",
-    "static/media/chatBubbles_M.png": "/static/media/chatBubbles_M.e5f8f92a87f39908bbc3.png",
-    "static/media/daysheets-lightGradient.png": "/static/media/daysheets-lightGradient.655fa6248355d235561e.png",
-    "static/media/macbookFlightGrid.png": "/static/media/macbookFlightGrid.d6b1449687c9f6576812.png",
     "static/media/iPhonemockup2.png": "/static/media/iPhonemockup2.2277cbc27f9e17bb9da9.png",
     "static/media/iPhonemockup3.png": "/static/media/iPhonemockup3.f23f9ab0301bccd8bbf2.png",
+    "static/media/phonebubbles.png": "/static/media/phonebubbles.eb6b6a4af9093c410269.png",
+    "static/media/chatBubbles_M.png": "/static/media/chatBubbles_M.e2a7061f5b014e544391.png",
+    "static/media/daysheets-mac-phone-mock.png": "/static/media/daysheets-mac-phone-mock.6974d571d20af4ec0407.png",
     "static/media/iPhonemockup.png": "/static/media/iPhonemockup.bd9db7041cb8c76335ca.png",
     "static/media/profile-export.png": "/static/media/profile-export.8a24b6961efbd4bf2b8f.png",
     "static/media/profile-exports-mobile.png": "/static/media/profile-exports-mobile.124a6f1ff124d89d32c7.png",
     "static/media/flightgrid-mock.png": "/static/media/flightgrid-mock.407eaf6ba48d644477a0.png",
+    "static/media/macbookFlightGrid.png": "/static/media/macbookFlightGrid.7ef325521fd99c82b37c.png",
     "static/media/routing.png": "/static/media/routing.541f81aacfaf0770306e.png",
     "static/media/profile-requests.png": "/static/media/profile-requests.05e8e00db49c53c2c084.png",
     "static/media/profile-requests-mobile.png": "/static/media/profile-requests-mobile.3c39a8d5c2aa0ce26a6e.png",
@@ -45,10 +44,10 @@
     "static/media/checkmark.svg": "/static/media/checkmark.7cba1970119cf3c3465cf1a456d33c0f.svg",
     "static/media/checkmark_w.svg": "/static/media/checkmark_w.88b0b824f66c2c0d84736c9c36663d32.svg",
     "main.ce01e68d.css.map": "/static/css/main.ce01e68d.css.map",
-    "main.2036c881.js.map": "/static/js/main.2036c881.js.map"
+    "main.b9e327ab.js.map": "/static/js/main.b9e327ab.js.map"
   },
   "entrypoints": [
     "static/css/main.ce01e68d.css",
-    "static/js/main.2036c881.js"
+    "static/js/main.b9e327ab.js"
   ]
 }
