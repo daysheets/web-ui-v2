@@ -37,8 +37,6 @@ const fadeUp2 = {
   },
 };
 
-const daysheetsUrl = "https://www.daysheets.com"; // Replace this with the URL to your daysheets file
-
 const BottomCTA = () => {
   const [popupOpen, setPopupOpen] = useState(false);
 

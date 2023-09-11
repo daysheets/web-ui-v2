@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import styles from "../styles"; // Import css modules stylesheet as styles
 import { logo } from "../assets"; // Import assets
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
