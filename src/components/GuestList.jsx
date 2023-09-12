@@ -163,6 +163,7 @@ const GuestList = () => {
                 whileInView="visible"
                 viewport={{ once: true, amount: 0.5 }}
                 className="absolute h-[40px] right-[-32px] top-[160px]"
+                loading="lazy"
               />
               <motion.img
                 src={chatBubble2}
@@ -172,6 +173,7 @@ const GuestList = () => {
                 whileInView="visible"
                 viewport={{ once: true, amount: 0.5 }}
                 className="absolute h-[40px] left-8 top-[64px]"
+                loading="lazy"
               />
               <motion.img
                 src={chatBubble3}
@@ -181,11 +183,13 @@ const GuestList = () => {
                 whileInView="visible"
                 viewport={{ once: true, amount: 0.5 }}
                 className="absolute h-[40px] left-8 top-[240px]"
+                loading="lazy"
               />
               <img
                 src={phoneBubbles}
                 alt="Product screenshot"
                 className="px-8 py-8 object-cover w-full object-left-top"
+                loading="lazy"
               />
             </div>
           </div>
@@ -195,6 +199,7 @@ const GuestList = () => {
               src={chatBubbles_M}
               alt="Product screenshot"
               className="lg:hidden"
+              loading="lazy"
             />
           </div>
         </div>

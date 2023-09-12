@@ -104,6 +104,7 @@ const Features = () => {
               src={routing}
               alt="Daysheets routing UI"
               className="rounded-lg"
+              loading="lazy"
             />
           </div>
         </div>
@@ -116,8 +117,9 @@ const Features = () => {
             {/* Image Box */}
             <img
               src={dragAndDrop}
-              alt=""
-              className=" rounded-xl max-h-[300px]"
+              alt="Drag and drop personnel"
+              className="rounded-xl max-h-[300px]"
+              loading="lazy"
             />
           </div>
           <motion.div
@@ -168,6 +170,7 @@ const Features = () => {
               src={shortcuts}
               alt="Daysheets shortcuts icons"
               className="pt-[64px]"
+              loading="lazy"
             />
           </div>
         </div>

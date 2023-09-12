@@ -100,6 +100,7 @@ const Flights = () => {
               src={dragAndDropFlight}
               alt="Plane tickets being uploaded to Daysheets"
               className=""
+              loading="lazy"
             />
           </div>
 
@@ -120,6 +121,7 @@ const Flights = () => {
               src={flightGrid}
               alt="A Flight grid in Daysheets"
               className="w-[1000px] max-w-none"
+              loading="lazy"
             />
           </div>
         </div>
@@ -149,6 +151,7 @@ const Flights = () => {
               src={dragAndDropFlight}
               alt="Plane tickets being uploaded to Daysheets"
               className="h-full object-cover object-right"
+              loading="lazy"
             />
           </div>
 
@@ -175,6 +178,7 @@ const Flights = () => {
               src={flightGrid}
               alt="A Flight grid in Daysheets"
               className="w-[1000px] max-w-none"
+              loading="lazy"
             />
           </div>
         </div>

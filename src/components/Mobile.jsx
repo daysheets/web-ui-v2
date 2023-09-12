@@ -128,8 +128,9 @@ const Mobile = () => {
           <div className="w-full max-w-full">
             <img
               src={selectedOption.image}
-              alt=""
+              alt="Daysheets mobile app"
               className="w-full h-auto inline"
+              loading="lazy"
             />
           </div>
         </div>
@@ -158,8 +159,9 @@ const Mobile = () => {
           <div className="flex w-1/2 lg:w-1/3 z-10">
             <img
               src={selectedOption.image}
-              alt=""
+              alt="Daysheets Mobile App"
               className="inline object-cover flex-start"
+              loading="lazy"
             />
           </div>
         </div>

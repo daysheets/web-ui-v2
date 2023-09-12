@@ -132,7 +132,7 @@ const Personalized = () => {
           <div className="pt-[32px] lg:pt-0 col-span-1">
             {" "}
             {/* Image Box */}
-            <img src={notes} alt="Notes UI" />
+            <img src={notes} alt="Notes UI" loading="lazy" />
           </div>
         </div>
 
@@ -142,7 +142,7 @@ const Personalized = () => {
           <div className="pt-[32px] lg:pt-0">
             {" "}
             {/* Image Box */}
-            <img src={hotels} alt="Hotels UI" />
+            <img src={hotels} alt="Hotels UI" loading="lazy" />
           </div>
           <motion.div
             variants={fadeLeft}

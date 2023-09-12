@@ -93,6 +93,7 @@ const TravelProfile = () => {
               src={profileRequestM}
               alt="Profile Requests"
               className="px-[16px]"
+              loading="lazy"
             />
           </div>
 
@@ -105,7 +106,7 @@ const TravelProfile = () => {
           </div>
 
           <div className="relative h-[480px] overflow-hidden px-[16px]">
-            <img src={iPhoneMock} alt="Profile Requests" />
+            <img src={iPhoneMock} alt="Profile Requests" loading="lazy" />
           </div>
 
           <div className="my-auto flex flex-col items-center">
@@ -121,6 +122,7 @@ const TravelProfile = () => {
               src={profileExportM}
               alt="Profile Requests"
               className="px-[16px]"
+              loading="lazy"
             />
           </div>
         </div>
@@ -162,11 +164,17 @@ const TravelProfile = () => {
               src={profileRequest}
               alt="Profile Requests"
               className="mx-auto"
+              loading="lazy"
             />
           </div>
 
           <div className="relative">
-            <img src={iPhoneMock} alt="Profile Requests" className=" mx-auto" />
+            <img
+              src={iPhoneMock}
+              alt="Profile Requests"
+              className=" mx-auto"
+              loading="lazy"
+            />
           </div>
 
           <div className="pt-[64px]">
@@ -174,6 +182,7 @@ const TravelProfile = () => {
               src={profileExport}
               alt="Profile Requests"
               className="mx-auto"
+              loading="lazy"
             />
           </div>
         </div>

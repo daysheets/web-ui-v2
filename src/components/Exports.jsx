@@ -68,6 +68,7 @@ const Exports = () => {
                 src={personnel}
                 alt="CSV Illustration"
                 className="max-h-[160px]"
+                loading="lazy"
               />
             </div>
             <div>
@@ -84,6 +85,7 @@ const Exports = () => {
                 src={personnel}
                 alt="CSV Illustration"
                 className="max-h-[160px]"
+                loading="lazy"
               />
             </div>
             <div>
@@ -99,6 +101,7 @@ const Exports = () => {
                 src={transfer}
                 alt="CSV Illustration"
                 className="max-h-[160px]"
+                loading="lazy"
               />
             </div>
             <div>
@@ -110,7 +113,12 @@ const Exports = () => {
           </div>
           <div className="flex items-center gap-[24px]">
             <div>
-              <img src={pdf} alt="PDF Illustration" className="max-h-[160px]" />
+              <img
+                src={pdf}
+                alt="PDF Illustration"
+                className="max-h-[160px]"
+                loading="lazy"
+              />
             </div>
             <div>
               <h5 className={`${styles.h5}`}>Custom Day Sheets</h5>
@@ -129,8 +137,9 @@ const Exports = () => {
             transition={{ duration: 0.4, delay: 0.2, ease: "easeOut" }}
             viewport={{ once: true, amount: 1 }}
             src={exports}
-            alt=""
+            alt="Arrows"
             className="col-span-4 w-[75%] mx-auto pb-[32px]"
+            loading="lazy"
           />
           <motion.img
             initial={{ y: 30, opacity: 0 }}
@@ -140,6 +149,7 @@ const Exports = () => {
             src={room}
             alt="CSV Illustration"
             className="w-[160px] mx-auto"
+            loading="lazy"
           />
           <motion.img
             initial={{ y: 30, opacity: 0 }}
@@ -149,6 +159,7 @@ const Exports = () => {
             src={personnel}
             alt="CSV Illustration"
             className="w-[160px] mx-auto"
+            loading="lazy"
           />
           <motion.img
             initial={{ y: 30, opacity: 0 }}
@@ -158,6 +169,7 @@ const Exports = () => {
             src={transfer}
             alt="CSV Illustration"
             className="w-[160px] mx-auto"
+            loading="lazy"
           />
           <motion.img
             initial={{ y: 30, opacity: 0 }}
@@ -167,6 +179,7 @@ const Exports = () => {
             src={pdf}
             alt="PDF Illustration"
             className="w-[160px] mx-auto"
+            loading="lazy"
           />
           <motion.div className="mx-auto">
             <p
