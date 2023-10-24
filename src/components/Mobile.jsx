@@ -84,8 +84,7 @@ const Mobile = () => {
             viewport={{ once: true, amount: 1 }}
             className={` ${styles.h2} text-center text-white pt-[32px]`}
           >
-            Manage your <span className="text-blue">entire tour</span>, from the
-            tool in your pocket.
+            Manage your entire tour, from the tool in your pocket.
           </motion.h2>
           <motion.div
             variants={fadeUp2}
