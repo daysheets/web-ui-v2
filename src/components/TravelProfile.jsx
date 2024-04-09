@@ -47,7 +47,7 @@ const TravelProfile = () => {
       <div className={`${styles.contentBoxBig}`}>
         {/* Heading */}
         <div className={`${styles.h2Box}`}>
-          <motion.div
+          {/* <motion.div
             variants={fadeUp}
             initial="hidden"
             whileInView="visible"
@@ -55,7 +55,7 @@ const TravelProfile = () => {
             className={` bg-dimBlue text-blue px-6 py-2 rounded-full font-semibold w-fit mx-auto`}
           >
             <h5>Coming soon</h5>
-          </motion.div>
+          </motion.div> */}
           <motion.h2
             variants={fadeUp2}
             initial="hidden"
