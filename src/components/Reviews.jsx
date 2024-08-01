@@ -36,7 +36,7 @@ const Reviews = () => {
       review: `“Daysheets is quick & easy to learn, their team is always available, and they implement our suggestions. Daysheets has quickly become our go-to touring information highway, and I am looking forward to their growth.`,
       image: avatar,
       name: "Tracey Wiedeman",
-      title: "Production Coordinator",
+      title: "Tour Manager",
     },
     {
       id: 2,
