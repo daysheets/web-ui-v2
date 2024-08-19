@@ -12,6 +12,7 @@ import Footer from "./Footer";
 import Mobile from "./Mobile";
 import Pricing from "./Pricing";
 import PriceGrid from "./PriceGrid";
+import ProTierForm from "./ProTierForm";
 import HelpContent from "./HelpContent";
 import FormCalendly from "./FormCalendly";
 import ReviewCard from "./ReviewCard";
@@ -33,6 +34,7 @@ export {
   Mobile,
   Pricing,
   PriceGrid,
+  ProTierForm,
   HelpContent,
   FormCalendly,
   ReviewCard,

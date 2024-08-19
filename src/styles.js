@@ -11,6 +11,7 @@ const styles = {
   hidden: "opacity-0",
 
   navBox: "mx-auto",
+  contentBoxSmall: "max-w-[800px] mx-auto",
   contentBox: "max-w-[1240px] mx-auto",
   contentBoxBig: "max-w-[1400px] mx-auto",
   contentBoxHuge: "max-w-[1600px] mx-auto",
