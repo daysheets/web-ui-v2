@@ -1,5 +1,5 @@
 import React from "react";
-import { Navbar, Pricing, Footer } from "../components";
+import { Navbar, PriceGrid, Footer } from "../components";
 
 const prices = () => {
   return (
@@ -7,7 +7,7 @@ const prices = () => {
       <div className="sticky top-0 z-20">
         <Navbar />
       </div>
-      <Pricing className="" />
+      <PriceGrid className="" />
       <Footer className="" />
     </div>
   );
